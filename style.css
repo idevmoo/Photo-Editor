@@ -8,13 +8,14 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     background: #333;
 }
 
 .container {
     background: #222;
     width: 85vw;
-    margin: 8px 0;
+    margin: 6px 0;
     padding: 20px;
     border-radius: 10px;
     display: grid;
