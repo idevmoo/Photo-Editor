@@ -19,15 +19,19 @@ body {
     gap: 50px;
 }
 
-h1 {
-    margin: 20px 0;
+header {
+    margin: 10px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
-h1 span {
+h1 {
+    display: block;
     background: none;
     padding: 0;
     color: #005cc8;
-    font-size: 30px;
+    font-size: 25px;
     font-weight: bold;
     text-transform: uppercase;
 }
