@@ -19,7 +19,11 @@ body {
     gap: 50px;
 }
 
-h1 span{
+h1 {
+    margin: 20px 0;
+}
+
+h1 span {
     background: none;
     padding: 0;
     color: #005cc8;
