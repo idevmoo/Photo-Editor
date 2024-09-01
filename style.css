@@ -19,6 +19,15 @@ body {
     gap: 50px;
 }
 
+h1 span{
+    background: none;
+    padding: 0;
+    color: #005cc8;
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
 .img {
     display: flex;
     flex-direction: column;
